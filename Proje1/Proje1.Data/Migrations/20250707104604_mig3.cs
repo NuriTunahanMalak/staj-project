@@ -8,8 +8,8 @@ namespace Proje1.Data.Migrations
     public partial class mig3 : Migration
     {
         /// <inheritdoc />
-        protected override void Up(MigrationBuilder migrationBuilder)
-        {
+        
+        protected override void Up(MigrationBuilder migrationBuilder) { 
 
         }
 
