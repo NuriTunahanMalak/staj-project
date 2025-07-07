@@ -356,3 +356,10 @@ C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Micro
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

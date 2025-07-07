@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZMfa9rZiHs=",
+  "dgSpecHash": "IA+1RzxVOKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
+  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
