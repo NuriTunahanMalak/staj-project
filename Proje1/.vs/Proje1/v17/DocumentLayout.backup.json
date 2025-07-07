@@ -159,7 +159,11 @@
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeToolTip": "Proje1\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+>>>>>>> 76be221e4c4b469df49e87d87a36d62017470adb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T05:36:48.545Z",
               "EditorCaption": ""
