@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\",
+  "WorkspaceRootPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +37,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -155,15 +159,19 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeToolTip": "Proje1\\Program.cs",
+<<<<<<< HEAD
 <<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
 =======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
 >>>>>>> 76be221e4c4b469df49e87d87a36d62017470adb
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+>>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T05:36:48.545Z",
               "EditorCaption": ""
