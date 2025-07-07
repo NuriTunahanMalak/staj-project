@@ -1,0 +1,23 @@
+    public SensorController(Proje1DbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> PostSensorData([FromBody] SensorData data)
+        {
+            if (data == null)
+                return BadRequest("Veri boş");
+
+            _context.SensorData.Add(data);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Veri kaydedildi" });
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllSensorData()
+        {
+            var data = await _context.SensorData.ToListAsync();
+            return Ok(data);
+        }
