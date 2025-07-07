@@ -29,4 +29,10 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+<<<<<<< HEAD
 builder.WebHost.UseUrls("http://0.0.0.0:5000");
+=======
+
+builder.WebHost.UseUrls("http://0.0.0.0:5000");
+
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9

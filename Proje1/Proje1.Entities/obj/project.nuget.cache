@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TLrSpCfSxt0=",
   "success": true,
   "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+=======
+  "dgSpecHash": "GFgkCJmhLEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
   "expectedPackageFiles": [],
   "logs": []
 }
