@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +26,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.data\\migrations\\20250707103446_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\migrations\\20250707103446_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|solutionrelative:proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 2c3e641abb00f78447aaa74d1a35eddaea8a0ad9
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +75,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -78,10 +120,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T11:56:03.207Z",
+=======
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
+              "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
+              "RelativeToolTip": "Proje1\\SensorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:58:59.237Z",
+>>>>>>> 2c3e641abb00f78447aaa74d1a35eddaea8a0ad9
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
@@ -91,11 +149,70 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-07T11:56:03.213Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "Proje1DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
+              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
+              "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:44:55.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
+              "RelativeDocumentMoniker": "Proje1.Entities\\SensorData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
+              "RelativeToolTip": "Proje1.Entities\\SensorData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:37:22.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "RelativeDocumentMoniker": "Proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "RelativeToolTip": "Proje1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:36:48.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proje1",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
+              "RelativeDocumentMoniker": "Proje1\\Proje1.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
+              "RelativeToolTip": "Proje1\\Proje1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T06:56:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
+              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
+              "RelativeToolTip": "Proje1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T06:56:04.312Z",
+>>>>>>> 2c3e641abb00f78447aaa74d1a35eddaea8a0ad9
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "SensorController.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
               "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
@@ -118,6 +235,52 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T11:56:03.215Z",
               "EditorCaption": ""
+=======
+              "Title": "20250707103446_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "RelativeDocumentMoniker": "Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "RelativeToolTip": "Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:34:46.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Proje1.Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
+              "RelativeToolTip": "Proje1.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:16:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Proje1.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
+              "RelativeToolTip": "Proje1.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:16:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Proje1.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
+              "RelativeToolTip": "Proje1.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:16:04.69Z"
+>>>>>>> 2c3e641abb00f78447aaa74d1a35eddaea8a0ad9
             }
           ]
         }
