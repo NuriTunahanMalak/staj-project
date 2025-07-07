@@ -3,7 +3,7 @@
     "ContainingType": "Proje1.SensorController",
     "Method": "PostSensorData",
     "RelativePath": "api/Sensor",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -13,6 +13,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje1.SensorController",
+    "Method": "GetAllSensorData",
+    "RelativePath": "api/Sensor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

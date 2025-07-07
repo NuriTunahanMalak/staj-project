@@ -6,7 +6,7 @@
   },
   "paths": {
     "/api/Sensor": {
-      "get": {
+      "post": {
         "tags": [
           "Sensor"
         ],
@@ -34,6 +34,16 @@
             "description": "OK"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "Sensor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },
@@ -42,9 +52,17 @@
       "SensorData": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "temperature": {
             "type": "number",
             "format": "float"
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
           }
         },
         "additionalProperties": false
