@@ -27,12 +27,7 @@
   </ItemGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
     <ProjectReference Include="..\Proje1.Data\Proje1.Data.csproj" />
-=======
-    <Folder Include="Controllers\" />
-    <Folder Include="irem\" />
->>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
   </ItemGroup>
 
 </Project>

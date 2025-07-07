@@ -14,7 +14,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-}s
+}
 
 app.UseHttpsRedirection();
 
@@ -27,4 +27,4 @@ app.Run();
 =======
 builder.WebHost.UseUrls("http://0.0.0.0:5000");
 //fhıweurt
->>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
+>>>>>>> 03982c4c0982d46768de71463919b5ef17448f47

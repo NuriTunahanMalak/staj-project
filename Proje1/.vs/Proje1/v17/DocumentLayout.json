@@ -1,10 +1,8 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\",
   "Documents": [
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,12 +36,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 76be221e4c4b469df49e87d87a36d62017470adb
-=======
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,7 +56,7 @@
               "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
               "RelativeToolTip": "Proje1\\SensorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T06:58:59.237Z",
               "EditorCaption": ""
@@ -78,8 +70,7 @@
               "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
               "RelativeToolTip": "Proje1\\Proje1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T06:56:33.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:56:33.711Z"
             },
             {
               "$type": "Document",
@@ -91,8 +82,7 @@
               "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:44:55.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:44:55.568Z"
             },
             {
               "$type": "Document",
@@ -104,8 +94,7 @@
               "RelativeToolTip": "Proje1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T06:56:04.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:56:04.312Z"
             },
             {
               "$type": "Document",
@@ -117,8 +106,7 @@
               "RelativeToolTip": "Proje1.Entities\\SensorData.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:37:22.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:37:22.94Z"
             },
             {
               "$type": "Document",
@@ -130,8 +118,7 @@
               "RelativeToolTip": "Proje1.Business\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:31:51.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:31:51.23Z"
             },
             {
               "$type": "Document",
@@ -143,8 +130,7 @@
               "RelativeToolTip": "Proje1.Entities\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:31:21.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:31:21.585Z"
             },
             {
               "$type": "Document",
@@ -156,25 +142,19 @@
               "RelativeToolTip": "Proje1.Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:30:18.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:30:18.642Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeToolTip": "Proje1\\Program.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
->>>>>>> 5a658d610d8fbf89f63bf35b50dabc055cb9380b
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:36:48.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T05:36:48.545Z"
             }
           ]
         }
