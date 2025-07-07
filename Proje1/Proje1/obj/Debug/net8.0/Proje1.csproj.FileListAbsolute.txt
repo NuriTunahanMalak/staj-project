@@ -171,3 +171,7 @@ C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\refin
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\Proje1.pdb
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\Proje1.genruntimeconfig.cache
 C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\obj\Debug\net8.0\ref\Proje1.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Proje1.Data.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Proje1.Entities.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Proje1.Data.pdb
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1\bin\Debug\net8.0\Proje1.Entities.pdb

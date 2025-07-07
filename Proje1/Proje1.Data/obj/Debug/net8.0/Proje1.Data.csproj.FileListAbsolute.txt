@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Data.deps.json
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Data.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Data.pdb
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Entities.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Entities.pdb
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.sourcelink.json
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.D.84A7C84B.Up2Date
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\refint\Proje1.Data.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.pdb
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\ref\Proje1.Data.dll

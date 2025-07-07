@@ -23,8 +23,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-<<<<<<< HEAD
-=======
+
 builder.WebHost.UseUrls("http://0.0.0.0:5000");
-//fhýweurt
->>>>>>> 03982c4c0982d46768de71463919b5ef17448f47
+

@@ -10,6 +10,7 @@ namespace Proje1.Entities
     {
       //  public int Id { get; set; }
         public float temperature { get; set; }
-       // public DateTime Timestamp { get; set; } = DateTime.UctNow; 
+        
+        // public DateTime Timestamp { get; set; } = DateTime.UctNow; 
     }
 }
