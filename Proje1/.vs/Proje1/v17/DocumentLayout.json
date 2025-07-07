@@ -1,11 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -18,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -38,21 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|solutionrelative:proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
     }
   ],
   "DocumentGroupContainers": [
@@ -62,18 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "SensorController.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
               "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
               "RelativeToolTip": "Proje1\\SensorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T06:58:59.237Z",
               "EditorCaption": ""
@@ -91,28 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Proje1DbContext.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-=======
-              "DocumentIndex": 2,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
               "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:18:11.264Z",
+              "WhenOpened": "2025-07-07T06:44:55.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< HEAD
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
               "RelativeDocumentMoniker": "Proje1\\appsettings.json",
@@ -161,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Class1.cs",
@@ -169,12 +144,11 @@
               "RelativeToolTip": "Proje1.Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:30:18.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:30:18.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
@@ -183,29 +157,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T05:36:48.545Z",
-=======
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeToolTip": "Proje1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:14:59.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeToolTip": "Proje1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T08:11:32.449Z",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
               "EditorCaption": ""
             }
           ]
