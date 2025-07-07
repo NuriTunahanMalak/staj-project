@@ -1090,6 +1090,7 @@
       "Proje1.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
           "Proje1.Entities": "1.0.0"
         },
         "runtime": {
