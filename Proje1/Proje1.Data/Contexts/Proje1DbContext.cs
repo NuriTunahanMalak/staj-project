@@ -10,10 +10,15 @@ namespace Proje1.Data.Contexts
 {
     public class Proje1DbContext : DbContext
     {
+        public Proje1DbContext(DbContextOptions<Proje1DbContext> options)
+        : base(options) {} //Veritabanı bağlantı bilgilerini almak için
+                         
         public DbSet<SensorData> SensorData { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
 
-        public Proje1DbContext(DbContextOptions<Proje1DbContext> options)
-       : base(options) { } //Veritabanı bağlantı bilgilerini almak için
     }
 }

@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {}
   },
   "projects": {
@@ -14,6 +15,13 @@
         "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
 =======
+=======
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+>>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
     "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {}
   },
   "projects": {
@@ -25,17 +33,55 @@
         "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
         "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
+<<<<<<< HEAD
 >>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
+    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+        "projectName": "Proje1.Entities",
+        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
+<<<<<<< HEAD
+=======
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
+>>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
+>>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+>>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
           "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
           "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
+=======
+          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
+>>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
+>>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+>>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +90,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +108,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -85,10 +130,25 @@
             }
           },
 <<<<<<< HEAD
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
 >>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+=======
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
+>>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
+>>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+>>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
         }
       }
     }

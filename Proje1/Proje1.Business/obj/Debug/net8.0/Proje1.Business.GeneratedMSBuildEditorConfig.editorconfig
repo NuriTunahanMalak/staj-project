@@ -9,10 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Proje1.Business
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
 =======
 build_property.ProjectDir = C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
 >>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
+=======
+build_property.ProjectDir = C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
+=======
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
+=======
+build_property.ProjectDir = C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Business\
+>>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
+>>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
+>>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+>>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
