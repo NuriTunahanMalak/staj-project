@@ -8,11 +8,11 @@ def main():
             "sicaklik":sicaklik
         }
         try:
-            response=requests.post("http://10.11.20.234:5000/api/sicaklik",json=veri)
-            response=requests.post("http://10.11.20.232:5000/api/sicaklik",json=veri)
-            response=requests.post("http://10.11.20.95:5000/api/sicaklik",json=veri)
+            res1 = requests.post("http://10.11.20.234:5000/api/sicaklik", json=veri)
+            res2 = requests.post("http://10.11.20.232:5000/api/sicaklik", json=veri)
+            res3 = requests.post("http://10.11.20.95:5000/api/sicaklik", json=veri)
 
-            print("Gönderildi: ",sicaklik,"Durum: ", response.status_code)
+            print("Gönderildi:", sicaklik, "Durumlar:", res1.status_code, res2.status_code, res3.status_code)   
         except Exception as e:
             print("Hata: ",e)
         time.sleep(5)
