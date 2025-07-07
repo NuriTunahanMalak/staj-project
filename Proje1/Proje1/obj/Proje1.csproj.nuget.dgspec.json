@@ -1,87 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
         "projectName": "Proje1.Data",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\obj\\",
-=======
-=======
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-        "projectName": "Proje1.Data",
-        "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-        "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\obj\\",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-        "projectName": "Proje1.Data",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\obj\\",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,32 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
-=======
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
-=======
-<<<<<<< HEAD
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
-=======
-<<<<<<< HEAD
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
-=======
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj"
               }
             }
           }
@@ -155,6 +67,14 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.6, )"
             }
           },
           "imports": [
@@ -173,90 +93,24 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
         "projectName": "Proje1.Entities",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
-=======
-=======
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
-        "projectName": "Proje1.Entities",
-        "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
-        "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
-        "projectName": "Proje1.Entities",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Proje1.Entities.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -304,90 +158,24 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
         "projectName": "Proje1",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\obj\\",
-=======
-=======
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-        "projectName": "Proje1",
-        "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-        "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\obj\\",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-        "projectName": "Proje1",
-        "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-        "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\obj\\",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-          "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -402,32 +190,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
-=======
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
-=======
-<<<<<<< HEAD
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
-=======
-<<<<<<< HEAD
-              "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
-=======
-              "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
-                "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj"
               }
             }
           }
@@ -488,26 +252,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

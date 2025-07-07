@@ -1,30 +1,22 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
-=======
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
-  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Migrations\\20250707103446_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Data\\Migrations\\20250707103446_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,109 +27,20 @@
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E3FF4D-8464-4802-BF2C-210C46232B9B}|Proje1.Business\\Proje1.Business.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E3FF4D-8464-4802-BF2C-210C46232B9B}|Proje1.Business\\Proje1.Business.csproj|solutionrelative:proje1.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Business\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|solutionrelative:proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\asus\\documents\\github\\staj-project\\proje1\\proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-  "WorkspaceRootPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\proje1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|solutionrelative:proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E3FF4D-8464-4802-BF2C-210C46232B9B}|Proje1.Business\\Proje1.Business.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E3FF4D-8464-4802-BF2C-210C46232B9B}|Proje1.Business\\Proje1.Business.csproj|solutionrelative:proje1.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\ntm26\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|solutionrelative:proje1.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-=======
-  "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\proje1\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-<<<<<<< HEAD
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-=======
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
-=======
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Proje1.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -147,123 +50,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "SelectedChildIndex": 8,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< HEAD
-              "Title": "SensorController.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeToolTip": "Proje1\\SensorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-=======
-              "Title": "Proje1.Data",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-              "RelativeDocumentMoniker": "Proje1.Data\\Proje1.Data.csproj",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Proje1.Data.csproj",
-              "RelativeToolTip": "Proje1.Data\\Proje1.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T07:57:46.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-=======
           "SelectedChildIndex": 0,
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 0,
-              "Title": "SensorController.cs",
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-=======
-          "SelectedChildIndex": 8,
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
-          "Children": [
-            {
-              "$type": "Document",
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 0,
-              "Title": "SensorController.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeToolTip": "Proje1\\SensorController.cs",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-=======
-              "ViewState": "AgIAAAkAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
-=======
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-=======
-              "Title": "SensorController.cs",
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
-              "RelativeToolTip": "Proje1\\SensorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
-=======
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:26:04.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 1,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
+              "Title": "20250707103446_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "RelativeDocumentMoniker": "Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Migrations\\20250707103446_mig2.cs",
+              "RelativeToolTip": "Proje1.Data\\Migrations\\20250707103446_mig2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:18:11.264Z"
+              "WhenOpened": "2025-07-07T10:34:46.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-=======
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
+              "RelativeDocumentMoniker": "Proje1\\SensorController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\SensorController.cs",
+              "RelativeToolTip": "Proje1\\SensorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:58:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Proje1DbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
@@ -277,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SensorData.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
               "RelativeDocumentMoniker": "Proje1.Entities\\SensorData.cs",
@@ -285,12 +101,11 @@
               "RelativeToolTip": "Proje1.Entities\\SensorData.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:37:22.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T06:37:22.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
@@ -298,415 +113,67 @@
               "RelativeToolTip": "Proje1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:36:48.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T05:36:48.545Z"
             },
             {
               "$type": "Document",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Proje1",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
               "RelativeDocumentMoniker": "Proje1\\Proje1.csproj",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-<<<<<<< HEAD
-=======
-              "DocumentIndex": 4,
-              "Title": "Proje1",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
-              "RelativeDocumentMoniker": "Proje1\\Proje1.csproj",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\Proje1.csproj",
               "RelativeToolTip": "Proje1\\Proje1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-07T06:56:33.711Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-=======
-              "DocumentIndex": 2,
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 3,
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-=======
-              "DocumentIndex": 4,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:18:11.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-=======
-              "DocumentIndex": 3,
-              "Title": "Proje1DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-              "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:44:55.568Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 3,
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-=======
-              "DocumentIndex": 1,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-=======
-              "DocumentIndex": 4,
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-=======
-              "DocumentIndex": 3,
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-<<<<<<< HEAD
-=======
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
               "RelativeDocumentMoniker": "Proje1\\appsettings.json",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
               "RelativeToolTip": "Proje1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-07T06:56:04.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-              "Title": "SensorData.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-              "RelativeDocumentMoniker": "Proje1.Entities\\SensorData.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-=======
-=======
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 5,
-              "Title": "SensorData.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-              "RelativeDocumentMoniker": "Proje1.Entities\\SensorData.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "DocumentIndex": 6,
-              "Title": "SensorData.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-              "RelativeDocumentMoniker": "Proje1.Entities\\SensorData.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\SensorData.cs",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "RelativeToolTip": "Proje1.Entities\\SensorData.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:37:22.94Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 7,
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Business\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
-=======
-=======
-=======
-<<<<<<< HEAD
-=======
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Business\\Class1.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
               "DocumentIndex": 7,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
               "RelativeDocumentMoniker": "Proje1.Business\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Class1.cs",
               "RelativeToolTip": "Proje1.Business\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:31:51.23Z"
+              "WhenOpened": "2025-07-07T10:16:04.684Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 7,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 8,
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
-=======
-=======
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
               "DocumentIndex": 8,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
               "RelativeDocumentMoniker": "Proje1.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Entities\\Class1.cs",
               "RelativeToolTip": "Proje1.Entities\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:31:21.585Z"
+              "WhenOpened": "2025-07-07T10:16:04.688Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 8,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 2,
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
-=======
-=======
-              "DocumentIndex": 3,
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-=======
-              "DocumentIndex": 2,
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "Proje1.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Data\\Class1.cs",
               "RelativeToolTip": "Proje1.Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-07-07T06:30:18.642Z"
-=======
-              "WhenOpened": "2025-07-07T06:30:18.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-=======
-=======
-              "DocumentIndex": 2,
-=======
-<<<<<<< HEAD
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "DocumentIndex": 9,
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
-=======
-              "DocumentIndex": 0,
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-              "RelativeToolTip": "Proje1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-07-07T08:14:59.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-=======
-              "WhenOpened": "2025-07-07T05:36:48.545Z",
-=======
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeDocumentMoniker": "Proje1\\Program.cs",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\Program.cs",
-              "RelativeToolTip": "Proje1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:14:59.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeDocumentMoniker": "Proje1\\appsettings.json",
-              "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1\\appsettings.json",
-              "RelativeToolTip": "Proje1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-<<<<<<< HEAD
-              "WhenOpened": "2025-07-07T08:11:32.449Z"
-=======
-              "WhenOpened": "2025-07-07T08:11:32.449Z",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-              "EditorCaption": ""
-<<<<<<< HEAD
->>>>>>> 338d316bde123df132d7d729c7f62f20ee8758df
-=======
-=======
-              "WhenOpened": "2025-07-07T06:30:18.642Z"
->>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+              "WhenOpened": "2025-07-07T10:16:04.69Z"
             }
           ]
         }

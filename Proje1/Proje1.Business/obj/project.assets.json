@@ -8,94 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\NTM26\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\IREM\\.nuget\\packages\\": {},
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-    "C:\\Users\\IREM\\.nuget\\packages\\": {},
-=======
-<<<<<<< HEAD
-    "C:\\Users\\NTM26\\.nuget\\packages\\": {},
-=======
-<<<<<<< HEAD
-    "C:\\Users\\IREM\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\NTM26\\.nuget\\packages\\": {},
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
       "projectName": "Proje1.Business",
-      "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\",
-=======
-=======
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-      "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "projectName": "Proje1.Business",
-      "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\",
-<<<<<<< HEAD
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
-      "projectUniqueName": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "projectName": "Proje1.Business",
-      "projectPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "packagesPath": "C:\\Users\\NTM26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\",
-<<<<<<< HEAD
-=======
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-        "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-        "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-        "C:\\Users\\IREM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\NTM26\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -143,26 +72,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
-=======
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -171,11 +81,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
-      "message": "Önbellek dosyası C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache okunurken bir sorun oluştu : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-=======
-      "message": "Önbellek dosyası C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+      "message": "Problem reading the cache file C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

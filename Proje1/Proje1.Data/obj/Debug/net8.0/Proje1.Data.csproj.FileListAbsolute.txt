@@ -32,3 +32,5 @@ C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.pdb
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.genruntimeconfig.cache
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\ref\Proje1.Data.dll
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\bin\Debug\net8.0\Proje1.Data.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\staj-project\Proje1\Proje1.Data\obj\Debug\net8.0\Proje1.Data.genruntimeconfig.cache

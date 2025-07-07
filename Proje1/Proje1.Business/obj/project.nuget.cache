@@ -1,51 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  "dgSpecHash": "IA+1RzxVOKE=",
+  "dgSpecHash": "9ZMfa9rZiHs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-=======
-<<<<<<< HEAD
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
-  "dgSpecHash": "zqsi9h1qrIo=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "IA+1RzxVOKE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
->>>>>>> c804210bad16bd9b92b95b811f0024e8346d2839
-=======
-<<<<<<< HEAD
-  "dgSpecHash": "IA+1RzxVOKE=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-=======
-  "dgSpecHash": "zqsi9h1qrIo=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
->>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
->>>>>>> f4288c7e7fd81f641d76df38147d5d5b14ae3ab1
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
->>>>>>> 67cf4dee86e1d063e8f7e87aead23ce35461f4a8
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
-<<<<<<< HEAD
-      "message": "Önbellek dosyası C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache okunurken bir sorun oluştu : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
-      "targetGraphs": []
-=======
-      "warningLevel": 1,
-      "message": "Önbellek dosyası C:\\Users\\NTM26\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> 0d557a1c54581a2c8dc8fb13fa3347498a19ed33
+      "message": "Problem reading the cache file C:\\Users\\ASUS\\Documents\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
