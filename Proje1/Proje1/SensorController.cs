@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Proje1.Data.Contexts;
+using Proje1.Entities;
 
 namespace Proje1
 {
@@ -16,8 +17,20 @@ namespace Proje1
             _context = context;
         }
 
-        [HttpPost]
-        
+        [HttpGet]
+        public async Task<IActionResult> PostSensorData([FromBody] SensorData data)
+        {
+            if (data == null)
+                return BadRequest("Veri boş");
+
+           
+  
+
+            _context.SensorData.Add(data);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Veri kaydedildi" });
+        }
 
 
     }

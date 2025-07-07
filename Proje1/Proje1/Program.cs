@@ -30,9 +30,15 @@ app.MapControllers();
 
 app.Run();
 <<<<<<< HEAD
+<<<<<<< HEAD
 builder.WebHost.UseUrls("http://0.0.0.0:5000");
 =======
 
 builder.WebHost.UseUrls("http://0.0.0.0:5000");
 
 >>>>>>> c2a15baa07897a2eb6b2b803e8bf5664c7ed7ad9
+=======
+
+builder.WebHost.UseUrls("http://0.0.0.0:5000");
+
+>>>>>>> e5aa2baacd42a5d095f13a108a2e49fca17550d4

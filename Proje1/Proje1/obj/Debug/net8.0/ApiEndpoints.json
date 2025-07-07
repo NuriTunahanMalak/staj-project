@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ContainingType": "Proje1.SensorController",
+    "Method": "PostSensorData",
+    "RelativePath": "api/Sensor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "Proje1.Entities.SensorData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
