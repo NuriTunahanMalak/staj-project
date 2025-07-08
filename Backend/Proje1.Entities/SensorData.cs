@@ -9,8 +9,8 @@ namespace Proje1.Entities
     public class SensorData
     {
         public int Id { get; set; }
-        public float temperature { get; set; }
-        
-        public DateTime Timestamp { get; set; } = DateTime.UtcNow; 
+        public float sicaklik { get; set; }
+
+        //public DateTime Timestamp { get; set; } = DateTime.UtcNow; 
     }
 }

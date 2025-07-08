@@ -23,7 +23,7 @@ namespace Proje1.Data.Contexts
             base.OnModelCreating(modelBuilder);
         }
 
-        //
+       
     }
 
     public class Proje1DbContextFactory : IDesignTimeDbContextFactory<Proje1DbContext>

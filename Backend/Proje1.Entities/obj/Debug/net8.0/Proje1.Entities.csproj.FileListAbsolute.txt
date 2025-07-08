@@ -22,3 +22,15 @@ C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Entities\obj\D
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Entities\obj\Debug\net8.0\refint\Proje1.Entities.dll
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.pdb
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Proje1\Proje1.Entities\obj\Debug\net8.0\ref\Proje1.Entities.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\bin\Debug\net8.0\Proje1.Entities.deps.json
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\bin\Debug\net8.0\Proje1.Entities.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\bin\Debug\net8.0\Proje1.Entities.pdb
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.AssemblyInfoInputs.cache
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.AssemblyInfo.cs
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.sourcelink.json
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\refint\Proje1.Entities.dll
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\Proje1.Entities.pdb
+C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Entities\obj\Debug\net8.0\ref\Proje1.Entities.dll

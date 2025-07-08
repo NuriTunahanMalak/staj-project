@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
+      "projectUniqueName": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Business\\Proje1.Business.csproj",
       "projectName": "Proje1.Business",
-      "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\Proje1.Business.csproj",
+      "projectPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Business\\Proje1.Business.csproj",
       "packagesPath": "C:\\Users\\IREM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Proje1\\Proje1.Business\\obj\\",
+      "outputPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
