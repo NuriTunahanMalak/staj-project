@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1.data\\migrations\\20250708092113_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\migrations\\20250708092113_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E040DCED-0251-4842-B6A3-A3D877B49B36}|Proje1\\Proje1.csproj|solutionrelative:proje1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1.data\\migrations\\20250707104604_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\migrations\\20250707104604_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{304A4B47-5572-4BC1-A06F-3A117923D49B}|Proje1.Data\\Proje1.Data.csproj|solutionrelative:proje1.data\\contexts\\proje1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9518BDF-ACE2-48E4-B1C0-87FEBB028474}|Proje1.Entities\\Proje1.Entities.csproj|c:\\users\\irem\\onedrive\\belgeler\\github\\staj-project\\backend\\proje1.entities\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,19 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250708092113_mig5.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Data\\Migrations\\20250708092113_mig5.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Migrations\\20250708092113_mig5.cs",
@@ -95,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20250707104604_mig3.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Data\\Migrations\\20250707104604_mig3.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Migrations\\20250707104604_mig3.cs",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1\\Program.cs",
               "RelativeDocumentMoniker": "Proje1\\Program.cs",
@@ -115,23 +111,25 @@
               "RelativeToolTip": "Proje1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:56:03.207Z"
+              "WhenOpened": "2025-07-07T11:56:03.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Proje1DbContext.cs",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "RelativeDocumentMoniker": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "ToolTip": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1.Data\\Contexts\\Proje1DbContext.cs",
               "RelativeToolTip": "Proje1.Data\\Contexts\\Proje1DbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:56:03.2Z"
+              "WhenOpened": "2025-07-07T11:56:03.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\IREM\\OneDrive\\Belgeler\\GitHub\\staj-project\\Backend\\Proje1\\appsettings.json",
               "RelativeDocumentMoniker": "Proje1\\appsettings.json",
@@ -164,6 +162,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T11:56:03.215Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
