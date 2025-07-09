@@ -34,3 +34,15 @@ C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\refint\Proje1.Business.dll
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.pdb
 C:\Users\IREM\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\ref\Proje1.Business.dll
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\bin\Debug\net8.0\Proje1.Business.deps.json
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\bin\Debug\net8.0\Proje1.Business.dll
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\bin\Debug\net8.0\Proje1.Business.pdb
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.AssemblyInfoInputs.cache
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.AssemblyInfo.cs
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.csproj.CoreCompileInputs.cache
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.sourcelink.json
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.dll
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\refint\Proje1.Business.dll
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\Proje1.Business.pdb
+C:\Users\NTM26\OneDrive\Belgeler\GitHub\staj-project\Backend\Proje1.Business\obj\Debug\net8.0\ref\Proje1.Business.dll
