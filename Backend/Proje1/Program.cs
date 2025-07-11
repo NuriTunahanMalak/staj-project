@@ -15,6 +15,14 @@ builder.Services.AddDbContext<Proje1DbContext>(options =>
 
 var app = builder.Build();
 
+app.UseCors(configurePolicy =>
+{
+    configurePolicy
+    .AllowAnyOrigin()
+    .AllowAnyMethod()
+    .AllowAnyHeader();
+});
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

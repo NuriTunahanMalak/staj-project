@@ -1,0 +1,21 @@
+import urllib.request
+import json
+import random
+
+url = "http://<BACKEND_IP>:<PORT>/api/Sensor"  # Buraya kendi adresini yaz
+
+data = {"temperature": round(random.uniform(20, 40), 2)}
+headers = {"Content-Type": "application/json"}
+
+req = urllib.request.Request(
+    url,
+    data=json.dumps(data).encode(),
+    headers=headers,
+    method="POST"
+)
+
+try:
+    with urllib.request.urlopen(req) as response:
+        print(response.read().decode())
+except Exception as e:
+    print("Hata:", e)

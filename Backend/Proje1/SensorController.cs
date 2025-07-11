@@ -19,21 +19,21 @@ namespace Proje1
         }
 
         [HttpPost]
-        public async Task<IActionResult> PostSensorData([FromBody] SensorData data)
+        public  IActionResult PostSensorData([FromBody] SensorData data)
         {
             if (data == null)
                 return BadRequest("Veri boş");
 
             _context.SensorData.Add(data);
-            await _context.SaveChangesAsync();
+            _context.SaveChangesAsync();
 
             return Ok(new { message = "Veri kaydedildi" });
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllSensorData()
+        public IActionResult GetAllSensorData()
         {
-            var data = await _context.SensorData.ToListAsync();
+            var data =_context.SensorData.ToListAsync();
             return Ok(data);
         }
     }
